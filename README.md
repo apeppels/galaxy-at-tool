@@ -2,6 +2,10 @@
 Tool to expose the AT modem om Samsung Galaxy devices and interact with it.
 It works over USB connections in MTP mode with factory settings.
 
+# Requirements
+This script depends on `libusb` and `pyserial`, these can be installed with:
+
+`pip install pyusb pyserial`
 
 # Usage:
 `python galaxy_at_tool.py`
