@@ -29,7 +29,7 @@ A `--shell` option can be supplied to interactively enter commands (these are pr
 
 
 # Background Information
-CVE-2016-4030 noted that the GT-I9192 (Galaxy S4) exposes a secondary USB configuration in MTP mode that provides direct access to the devices AT modem. This appears to be still working on both the G950F and G965F (S8 and S9) while they are unlocked.
+CVE-2016-4030 noted that the GT-I9192 (Galaxy S4) exposes a secondary USB configuration in MTP mode that provides direct access to the AT modem. This appears to still work this way on both the G950F and G965F (S8 and S9), provided that they are unlocked.
 
 The phone presents with two possible USB configurations when connecting, as can be 
 read from the bNumConfigurations value in the output of 'lsusb -v'.
