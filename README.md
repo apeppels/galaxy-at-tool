@@ -58,4 +58,5 @@ I personally see risk because users are generally not aware of the security impl
 Resources:
 
 https://atcommands.org/
+
 https://www.etsi.org/deliver/etsi_ts/131100_131199/131102/04.15.00_60/ts_131102v041500p.pdf
