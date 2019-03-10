@@ -44,9 +44,10 @@ dev.set_configuration(0x2)
 In my experience this switching might take a retry or two.
 After this, /dev/ttyACM0 is reachable.
 
-This enables issuing AT commands:
-    echo -e "AT \r\n" >/dev/ttyACM0
-    
+This enables issuing AT commands: 
+
+`echo -e "AT \r\n" >/dev/ttyACM0`    
+
 NB:
 In Ubuntu, the phone is auto-mounted, it must first be unmounted.
 The device only accepts AT commands when the keyguard (lockscreen) is inactive.
