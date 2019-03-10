@@ -56,5 +56,6 @@ Samsung's stance is that because the AT commands can only be issued when the pho
 I personally see risk because users are generally not aware of the security implication of unlocking their phone while charging from an untrusted source. An option to conveniently disable access to AT commands when one is aware of the risk is also lacking.
 
 Resources:
+
 https://atcommands.org/
 https://www.etsi.org/deliver/etsi_ts/131100_131199/131102/04.15.00_60/ts_131102v041500p.pdf
