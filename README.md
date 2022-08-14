@@ -1,5 +1,5 @@
 # galaxy-at-tool
-Tool to expose the AT modem om Samsung Galaxy devices and interact with it.
+Tool to expose the AT modem on Samsung Galaxy devices and interact with it.
 It works over USB connections in MTP mode with factory settings.
 
 # Requirements
